@@ -1,0 +1,3 @@
+*.xml linguist-detectable=false
+*.json linguist-detectable=false
+*.gradle linguist-detectable=false
